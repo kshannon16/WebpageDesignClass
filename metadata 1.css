@@ -1,0 +1,19 @@
+/*
+* Kelly Shannon
+* March 28, 2018
+* CSS File
+*/
+
+
+/* universal selector */
+
+* {
+
+}
+
+/* Put body attributes here */
+
+body { background-color: pink;
+color: white;
+
+}
