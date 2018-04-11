@@ -15,5 +15,15 @@
 
 body { background-color: pink;
 color: white;
+font-style: normal;font-family: Times, Arial;
 
 }
+
+img {float:left;}
+
+
+h1{ text-align: center; text-decoration: underline overline; font-size: 20pt; text-transform: uppercase;}
+
+.unfloat{clear: left;}
+
+.float {font-size 14pt;}
