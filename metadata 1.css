@@ -14,7 +14,7 @@
 /* Put body attributes here */
 
 body { background-color: pink;
-color: white;
+color: mistyrose;
 font-style: normal;font-family: Times, Arial;
 
 }
@@ -22,8 +22,13 @@ font-style: normal;font-family: Times, Arial;
 img {float:left;}
 
 
-h1{ text-align: center; text-decoration: underline overline; font-size: 20pt; text-transform: uppercase;}
+h1{ text-align: center; text-decoration: underline overline; font-size: 20pt; text-transform: uppercase;color: white;}
 
 .unfloat{clear: left;}
 
 .float {font-size 14pt;}
+
+h1{ background-color: royalblue;}
+p {color: black;}
+p{ background-color: white;}  
+
