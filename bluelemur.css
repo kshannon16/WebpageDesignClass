@@ -1,0 +1,47 @@
+/*Kelly Shannon */
+/*Endangered Species Project */
+/* May 4, 2018 */
+
+*{margin:0; padding:0;}
+/*This is the universal selector*/
+
+.location {float: right; height:200px; width:200px;
+border: 4px dashed black;}
+/*This is the formatting for the map image*/
+
+
+.words {float: right;}
+
+body{background-color: lightblue; margin: 5px; padding:5px; width:1275px;margin: auto;}
+main{margin: 7px; padding:5px; font-size:22px;}
+
+h1{ font-family: fantasy; font-size: 40px; font-weight: bold;
+	margin: 5px; padding: 5px; text-decoration:underline;}
+.head{border-bottom:4px dashed deeppink;}
+/*This border was used to get the pink border underneath the title*/
+
+a:hover{ color: fuchsia;}
+a:link{color: red;}
+
+.pic1 { margin:5px;
+	float: left;
+	width: 200px; height:175px; border: 4px dashed black;}	
+/*This is the format for the first picture of a lemur*/
+.pic2 {margin:5px; border: 4px solid black;
+width: 200px; height:150px;}
+.pic3{ margin: 5px; border: 4px solid black;
+height: 150px; width:200px;}
+.pic4{ margin:5px; border: 4px solid black;
+height: 150px; width:200px;}
+.pic5{ margin:5px; border: 4px solid black;
+height: 150px; width:200px;}
+.pic6{ margin:5px; border:4px solid black;
+height: 150px;width:200px;}
+
+/*These were the formatting for the pictures across the page*/
+
+
+
+
+li { list-style-type: none;}
+/*This was used to remove the bullet points from the unordered list*/
