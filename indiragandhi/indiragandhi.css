@@ -1,0 +1,64 @@
+
+/* Kelly Shannon */
+/*  May 14, 2018*/
+/*Final Project   */
+
+* {margin: 0;padding: 0;}
+
+
+body {width: 90%; background-color: lightgreen; margin: 10px auto; border: 4px solid black; padding: 2px;}
+
+h1 {padding: 10px; text-decoration: underline ; color: blue;}
+
+
+header {border-bottom: 2px solid black;}
+
+
+#sidebarA {
+    width: 20%;
+    float: left;
+height: 610px;
+font-size: 13pt;
+
+}
+/* This is putting a border around the Main Facts paragraph */
+
+main {
+   width: 50%;
+    float: left; 
+    border-left: 2px solid black;
+    border-right: 2px soild black; 
+    font-size: 13pt;
+    height: 610px;
+}
+
+#sidebarB {
+    width: 22% ;
+    height: 610px;
+    float: right ;
+    border-left: 2px solid black; font-size: 13pt;
+  
+}
+.sideB{margin-left: 15px;}
+.sideC{margin-left: 10px;}
+
+/*This is putting a border around the What Did She Accomplish? paragraph */
+footer {
+    clear: both;
+    border-top: 2px solid black;
+    
+    
+}
+
+a:hover{ color: fuchsia;}
+a:link{color: purple;}
+a:visted{color: lightblue;}
+/*These pseudo-classes are affecting the color of the links*/
+
+.indira1{border: 4px solid black; float: left; margin:8px}
+.mapofindia{border: 4px solid black;
+height: 200px; width: 200px; margin:7px;}
+.flag {border: 4px solid black; float: right;}
+.words{float: right;}
+li { list-style-type: none;}
+/*These are the formats for all my pictures and the words in my footer*/
